@@ -1,0 +1,6 @@
+{
+    "prompts": [
+      "**45_Events_Page_Calendar**: Crea `src/pages/events/EventCalendar.tsx`.\n**Vista**: Calendario mensual grande (mock UI grid 7x5). Días con eventos tienen 'dots' de colores. Al hacer click en día, abre Drawer lateral con lista de eventos de ese día.",
+      "**56_App_Final_Integration**: Actúa como Lead Developer. Integra todo en `src/App.tsx`.\n1. Envuelve app en `BrowserRouter`.\n2. Envuelve en `ThemeProvider` (si usas contexto para tema).\n3. Envuelve en `ToastProvider`.\n4. Renderiza `AppRouter`.\n5. Asegura que `index.css` se importa.\n6. Verifica que no haya exports por defecto rotos en los índices."
+    ]
+  }
